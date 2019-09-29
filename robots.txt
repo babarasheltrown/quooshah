@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hiepheipa.theslickcompany.com/sitemap.xml
